@@ -1,9 +1,9 @@
-# haunted-escape-room-game
-👻 Haunted Escape Room Game Using Generative AI
+
+# 👻 Haunted Escape Room Game Using Generative AI
 
 An interactive horror escape room game that explores the integration of Generative AI, Large Language Models (LLMs), GANs, Python, and Unity to create an immersive gaming experience with intelligent interactions, dynamic storytelling, and puzzle-solving challenges.
 
-📌 Project Overview
+# 📌 Project Overview
 
 The Haunted Escape Room Game is an AI-driven game development project that combines interactive gameplay with Generative AI techniques. Players explore a haunted environment, discover hidden clues, solve puzzles, and uncover mysteries to escape the room.
 
@@ -11,7 +11,7 @@ The project explores how Artificial Intelligence can enhance traditional gaming 
 
 By combining Unity for game development with Python-based AI components, the project demonstrates the potential of integrating AI technologies into interactive applications.
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Develop an interactive haunted escape room environment using Unity.
 - Explore Generative Adversarial Networks (GANs) for AI-based image generation.
@@ -21,35 +21,35 @@ By combining Unity for game development with Python-based AI components, the pro
 - Integrate Python-based AI functionality into the gaming workflow.
 - Demonstrate the practical application of Generative AI in game development.
 
-✨ Key Features
+# ✨ Key Features
 
-🏚️ Immersive Haunted Environment
+# 🏚️ Immersive Haunted Environment
 
 - Horror-themed environment with mysterious objects and hidden clues.
 - Interactive exploration and object-based gameplay.
 - Story-driven progression through the escape room.
 
-🧩 Interactive Puzzle Solving
+# 🧩 Interactive Puzzle Solving
 
 - Clue-based challenges that encourage logical reasoning.
 - Puzzle progression based on player interactions.
 - Opportunities to expand the game with additional challenges.
 
-🤖 Generative AI Integration
+# 🤖 Generative AI Integration
 
 - Exploration of GAN-based image generation for visual content.
 - LLM-based dialogue generation and interactive storytelling.
 - AI-assisted hints and contextual responses.
 - Potential for more dynamic and personalized gameplay.
 
-🎮 Unity Game Development
+# 🎮 Unity Game Development
 
 - Interactive game environment.
 - Game logic and player interaction systems.
 - Puzzle progression and objective management.
 - Integration opportunities for Python-based AI components.
 
-📖 Game Storyline
+# 📖 Game Storyline
 
 The player finds themselves trapped inside a mysterious haunted room filled with strange objects, hidden clues, and unexplained events.
 
@@ -59,7 +59,7 @@ As the player progresses, AI-assisted interactions can provide additional narrat
 
 The ultimate objective is to solve the required puzzles, reveal the mystery, and escape successfully.
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 The gameplay follows a sequence of exploration, investigation, puzzle-solving, and progression.
 
@@ -71,7 +71,7 @@ The gameplay follows a sequence of exploration, investigation, puzzle-solving, a
 6. Validate Progress: Check puzzle completion and update the game state.
 7. Escape: Complete the required objectives to reach the ending.
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 
 The project can be organized into the following components:
 
@@ -104,7 +104,7 @@ Connects game components with AI functionality when required.
 
 Possible communication mechanisms include local services, APIs, or other application integration methods.
 
-🧠 AI Technologies
+# 🧠 AI Technologies
 
 Generative Adversarial Networks (GANs)
 
@@ -132,7 +132,7 @@ AI can complement conventional game logic by providing dialogue, hints, and gene
 
 The actual AI capabilities depend on the models and integrations implemented in the project.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Technology | Purpose
 Python | AI development and processing
@@ -143,7 +143,7 @@ Large Language Models (LLMs)| Dialogue and text generation
 Git| Version control
 GitHub| Source code management and documentation
 
-🔄 Development Workflow
+# 🔄 Development Workflow
 
 1. Planning: Define the storyline, gameplay objectives, and puzzle mechanics.
 2. Environment Design: Create the haunted environment and interactive objects.
@@ -153,7 +153,7 @@ GitHub| Source code management and documentation
 6. Testing: Test gameplay, puzzle progression, and AI outputs.
 7. Deployment: Prepare the project for execution and publish the source code on GitHub.
 
-📂 Project Structure
+# 📂 Project Structure
 
 A suggested project organization is shown below. Adapt it to match your actual repository.
 
@@ -186,7 +186,7 @@ haunted-escape-room/
 
 
 
-🎮 Gameplay
+# 🎮 Gameplay
 
 The intended gameplay experience includes:
 
@@ -198,7 +198,7 @@ The intended gameplay experience includes:
 - Interacting with AI-supported characters, where implemented.
 - Completing objectives to escape the room.
 
-🧪 Testing
+# 🧪 Testing
 
 The following areas can be tested during development:
 
@@ -210,7 +210,7 @@ The following areas can be tested during development:
 - Integration between Unity and Python, if applicable.
 - Successful completion of the escape sequence.
 
-⚠️ Challenges and Considerations
+# ⚠️ Challenges and Considerations
 
 Potential development challenges include:
 
@@ -225,7 +225,7 @@ Potential development challenges include:
 
 These considerations can guide future development and testing.
 
-🌍 Applications
+# 🌍 Applications
 
 The techniques explored in this project may be applicable to:
 
@@ -237,7 +237,7 @@ The techniques explored in this project may be applicable to:
 - Conversational game characters.
 - AI-assisted game content creation.
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 - Adaptive puzzle difficulty based on player performance.
 - Context-aware AI characters with improved dialogue.
@@ -249,7 +249,7 @@ The techniques explored in this project may be applicable to:
 - Standalone game deployment.
 - Additional levels, puzzles, and interactive environments.
 
-📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 This project explores concepts related to:
 
